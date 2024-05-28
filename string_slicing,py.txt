@@ -1,0 +1,5 @@
+
+#string slicing /selecting sub sequences
+lang="python"
+print(lang[2:4])
+print(lang[3:5])
